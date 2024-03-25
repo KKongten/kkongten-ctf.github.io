@@ -11,7 +11,7 @@
 * 3번 명령의 결과 ( result1= _ O O _ _ _ _ _ _)
 * 4번 명령의 결과 ( result2= _ _ _ O O O O O O)
 * result1 & resut2를 하면 ( result = X O O O O O O O O )
-* result1이 2~3까지 / result2가 4~9 까지 이므로 1번(X) 자리는 필요하지 않음
+* result1의 2부터3까지 / result2의 4부터9 까지 이므로 1번(X) 자리는 필요하지 않음
 
 
 ## 정답
